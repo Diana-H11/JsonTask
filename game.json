@@ -1,0 +1,16 @@
+{
+    "themes": [
+      {
+        "name": "Snow",
+        "backColor": "linear-gradient(0deg, #9a8ff7, #FFFFFF)",
+        "buttonColor": "blue",
+        "mainElement": "url('./gift-image.png')"
+      },
+      {
+        "name": "Cats",
+        "backColor":  "linear-gradient(0deg, #f78fe7, #FFFFFF)",
+        "buttonColor": " rgb(210, 0, 129)",
+        "mainElement": "url('./gift-image.png')"
+      }
+    ]
+  }
