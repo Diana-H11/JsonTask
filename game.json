@@ -10,7 +10,7 @@
         "name": "Cats",
         "backColor":  "linear-gradient(0deg, #f78fe7, #FFFFFF)",
         "buttonColor": " rgb(210, 0, 129)",
-        "mainElement": "url('./gift-image.png')"
+        "mainElement": "url('./cat.png')"
       }
     ]
   }
