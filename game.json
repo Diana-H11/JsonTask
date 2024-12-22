@@ -4,13 +4,13 @@
         "name": "Snow",
         "backColor": "linear-gradient(0deg, #9a8ff7, #FFFFFF)",
         "buttonColor": "blue",
-        "mainElement": "url('./gift-image.png')"
+        "mainElement": "url('./gift-image.png') no-repeat center"
       },
       {
         "name": "Cats",
         "backColor":  "linear-gradient(0deg, #f78fe7, #FFFFFF)",
         "buttonColor": " rgb(210, 0, 129)",
-        "mainElement": "url('./cat.png')"
+        "mainElement": "url('./cat.png') no-repeat center"
       }
     ]
   }
