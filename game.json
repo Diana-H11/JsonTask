@@ -1,16 +1,24 @@
 {
     "themes": [
       {
-        "name": "Snow",
+        "name": "Blue",
         "backColor": "linear-gradient(0deg, #9a8ff7, #FFFFFF)",
-        "buttonColor": "blue",
-        "mainElement": "url('./gift-image.png') no-repeat center"
+        "buttonColor": "blue"
       },
       {
-        "name": "Cats",
+        "name": "Rose",
         "backColor":  "linear-gradient(0deg, #f78fe7, #FFFFFF)",
-        "buttonColor": " rgb(210, 0, 129)",
-        "mainElement": "url('./cat.png') no-repeat center"
+        "buttonColor": " rgb(210, 0, 129)"
+      },
+      {
+        "name": "Green",
+        "backColor":  "linear-gradient(0deg, #49f3a4, #FFFFFF)",
+        "buttonColor": " rgb(12, 138, 71)"
+      },
+      {
+        "name": "Red",
+        "backColor":  "linear-gradient(0deg, #ffb2b2, #FFFFFF)",
+        "buttonColor": " rgb(193, 6, 12)"
       }
     ]
   }
